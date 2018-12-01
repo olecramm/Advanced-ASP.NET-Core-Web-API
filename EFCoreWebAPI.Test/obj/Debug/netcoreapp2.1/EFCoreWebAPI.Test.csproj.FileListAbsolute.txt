@@ -1,0 +1,17 @@
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\EFCoreWebAPI.Test.deps.json
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\EFCoreWebAPI.Test.runtimeconfig.json
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\EFCoreWebAPI.Test.runtimeconfig.dev.json
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\EFCoreWebAPI.Test.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\EFCoreWebAPI.Test.pdb
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\webserver.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\bin\Debug\netcoreapp2.1\webserver.pdb
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.csprojAssemblyReference.cache
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.AssemblyInfoInputs.cache
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.AssemblyInfo.cs
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.csproj.CopyComplete
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.dll
+C:\Users\MNZZ\source\repos\TaskModule4\EFCoreWebAPI.Test\obj\Debug\netcoreapp2.1\EFCoreWebAPI.Test.pdb

@@ -1,0 +1,13 @@
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\bin\Debug\netcoreapp2.1\webserver.deps.json
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\bin\Debug\netcoreapp2.1\webserver.runtimeconfig.json
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\bin\Debug\netcoreapp2.1\webserver.runtimeconfig.dev.json
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\bin\Debug\netcoreapp2.1\webserver.dll
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\bin\Debug\netcoreapp2.1\webserver.pdb
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.csproj.CoreCompileInputs.cache
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.RazorAssemblyInfo.cache
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.RazorAssemblyInfo.cs
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.AssemblyInfoInputs.cache
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.AssemblyInfo.cs
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.RazorTargetAssemblyInfo.cache
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.dll
+C:\Users\MNZZ\source\repos\TaskModule4\webserver\obj\Debug\netcoreapp2.1\webserver.pdb
